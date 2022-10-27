@@ -38,7 +38,14 @@
     виклик функції: Улюблена домашня тварина: Кіт рижий
 
 - вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
-
+https://github.com/opusas/tk-41/blob/main/lab2/pictures/picture2.PNG
+https://github.com/opusas/tk-41/blob/main/lab2/pictures/picture3.PNG
+https://github.com/opusas/tk-41/blob/main/lab2/pictures/picture4.PNG
+https://github.com/opusas/tk-41/blob/main/lab2/pictures/picture5.PNG
+https://github.com/opusas/tk-41/blob/main/lab2/pictures/picture6.PNG
+https://github.com/opusas/tk-41/blob/main/lab2/pictures/picture7.PNG
+https://github.com/opusas/tk-41/blob/main/lab2/pictures/picture8.PNG
+https://github.com/opusas/tk-41/blob/main/lab2/pictures/picture9.PNG
 
 
 
