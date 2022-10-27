@@ -11,7 +11,8 @@
 - вставлені рисунки (скріншоти екрана або фотографії виконаного завдання у зошиті);
 > якщо графічних файлів багато то краще помістити їх у окрему папку, наприклад у мене це папка `pictures`. Уважно дивіться коли вставляєте URL - файл має бути представленим як `raw`. 
 
-![alt text](https://github.com/BobasB/it_college/raw/main/reports/pictures/logo-lit.jpg "ІТ Коледж")
+![alt text](https://github.com/opusas/tk-41/blob/main/lab1/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG "Скрін 1")
+![alt text](https://github.com/opusas/tk-41/blob/main/lab1/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG "Скрін 2")
 
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
