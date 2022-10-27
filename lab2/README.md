@@ -68,7 +68,7 @@ letters = ["a", "b", "c","d", "e", "f"]
 for i in range(len(letters)):
     print(f"Під номером {i} є буква {letters[i]}")
 
-    A = True
+A = True
 B = False
 print("Значить А=True" if A else "Значить А=False")
 print("Значить B=True" if B else "Значить B=False")
