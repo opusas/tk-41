@@ -92,4 +92,4 @@ print(f"We are done. We create {me.total_names} names! ??? Why {MyName.total_nam
 - :question: Чи виникли складності у виконанні завдання; - ні
 - :question: Чи подобається такий формат здачі роботи (Feedback); - так
 - :question: Побажання для покращення (Suggestions); - немає
----
+--- 

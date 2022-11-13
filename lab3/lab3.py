@@ -55,4 +55,4 @@ This is static {type(MyName.say_hello)} with defaults: {me.say_hello()}
 This is class variable {type(MyName.total_names)}: from class {MyName.total_names} / from object {me.total_names}
 {"<*>"*20}""")
 
-print(f"We are done. We create {me.total_names} names! ??? Why {MyName.total_names}?")
+print(f"We are done. We create {me.total_names} names! ??? Why {MyName.total_names}?") 
