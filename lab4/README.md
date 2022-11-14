@@ -18,10 +18,12 @@
 ![alt text](https://github.com/opusas/tk-41/blob/main/lab4/pictures/8.source.PNG "скрін 8")
 
 2. Остання команди вивела:
+
 ![alt text](https://github.com/opusas/tk-41/blob/main/lab4/pictures/8.source.PNG "скрін 9")
 
 - Робота з Pipenv
 1. Команди вивели такі значення:
+
 ![alt text](https://github.com/opusas/tk-41/blob/main/lab4/pictures/9.install%20pipnv.PNG "скрін 10")
 ![alt text](https://github.com/opusas/tk-41/blob/main/lab4/pictures/10.pipnv%20help.PNG "скрін 11")
 ![alt text](https://github.com/opusas/tk-41/blob/main/lab4/pictures/11.pipnv%20help%202.PNG "скрін 12")
