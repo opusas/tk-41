@@ -38,11 +38,13 @@ for line in response.iter_lines():
     print(line)
 ```
 3. Програма вивела таке значення:
+
 ![alt text](https://github.com/opusas/tk-41/blob/main/lab4/pictures/13.code.PNG "скрін 14")
 8. Змінив Python інтерпретатор. 
 
 - Робота зі змінними середовища:
-1. Створив файл .env та виконав код.
+1. Створив файл .env та виконав код:
+
 ![alt text](https://github.com/opusas/tk-41/blob/main/lab4/pictures/14.env%20code.PNG "скрін 15")
 2. Буде помилка
 - вставлений код / текстовий або числовий результат / інші результати:
